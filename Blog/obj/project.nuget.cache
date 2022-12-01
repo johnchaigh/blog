@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJrLuKPH/ZPTn9mvh5BHSGVQMAJmDz7uE1c8+xb05QwpPSUxyqlf+M8IGaPrdhJ2E9VYJSAYC/vC8iXAB8XjYg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\john.haigh\\source\\repos\\blog\\Blog\\Blog.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\IIS\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Identity.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\IIS\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'I:\\IIS\\NuGetPackages' doesn't exist.",
+      "libraryId": "Microsoft.AspNetCore.Identity.UI"
+    }
+  ]
+}
